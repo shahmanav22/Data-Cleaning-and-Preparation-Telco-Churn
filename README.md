@@ -28,3 +28,7 @@ This project focuses on transforming raw customer data into a clean and machine-
 ## Output
 
 A fully cleaned dataset ready for Exploratory Data Analysis (EDA) and Predictive Modeling.
+
+## Author
+
+Manav Shah
